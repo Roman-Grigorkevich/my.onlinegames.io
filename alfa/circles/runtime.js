@@ -1,3 +1,5 @@
+//10.03.2018
+
 const can=document.getElementById('canvas')
 const ray=can.getContext('2d')
 const border=can.getContext('2d')
